@@ -12,8 +12,8 @@ header{
     background-color: blanchedalmond;
 }
 h1{
-    border-top: 2px solid orange;
-    border-bottom: 2px solid orange;
+    border-top: 2px solid rgb(255, 155, 155);
+    border-bottom: 2px solid rgb(255, 155, 155);
     padding: 0rem 1rem 0 1rem;
     font-size: xx-large;
     text-align: center;
@@ -23,14 +23,18 @@ h1{
     display: flex;
     align-items: center;
 }
+.img{
+    display: flex;
+    justify-content: center;
+}
 img{
     margin: 1rem;
-    width: 15%;
+    width: 70%;
     border-radius: 50%;
 }
 #pheader{
     margin: 1rem;    
-    max-width: 80%;
+    max-width: 100%;
 }
 .h2Boton{
     background-color:aliceblue;
