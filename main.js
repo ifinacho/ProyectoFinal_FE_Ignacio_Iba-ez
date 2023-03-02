@@ -1,13 +1,3 @@
-/*let datosPersonales = document.getElementById("datosPersonales");
-let botonOcultar = document.getElementById("botonOcultar");
-let botonMostrar = document.getElementById("botonMostrar");
-
-
-
-
-botonOcultar.onclick = () => datosPersonales.style.display = "none";
-botonMostrar.onclick = () => datosPersonales.style.display = "";*/
-
 let divdatos = document.getElementsByClassName("divMain");
 let botonesOcultar = document.getElementsByClassName("botonOcultar");
 let botonesMostrar = document.getElementsByClassName("botonMostrar");
