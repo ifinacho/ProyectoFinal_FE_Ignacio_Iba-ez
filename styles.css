@@ -36,6 +36,9 @@ img{
     margin: 1rem;    
     max-width: 100%;
 }
+p, li, strong{
+    font-size: large;
+}
 .h2Boton{
     background-color:aliceblue;
     border-bottom: 1px solid green;
